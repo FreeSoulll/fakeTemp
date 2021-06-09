@@ -1,0 +1,5 @@
+[
+   {'temperature': 238, localTime: 2000},
+   {'temperature': 230, localTime: 2001},
+   {'temperature': 20, localTime: 2002}
+]
