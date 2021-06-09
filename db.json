@@ -1,5 +1,14 @@
-[
-   {'temperature': 238, 'localTime': 2000},
-   {'temperature': 230, 'localTime': 2001},
-   {'temperature': 20, 'localTime': 2002}
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
