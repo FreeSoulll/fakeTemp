@@ -1,13 +1,18 @@
 {
   "temperature": [
     { 
+      "id": 1,
       "localTime": "2021-12-15 16:33:49",
       "temperature": 20 
     },
-    { "localTime": "2021-12-15 16:34:49",
+    { 
+      "id": 2,
+      "localTime": "2021-12-15 16:34:49",
      "temperature": 50 
     },
-    { "localTime": "2021-12-15 16:35:49",
+    { 
+      "id": 3,
+      "localTime": "2021-12-15 16:35:49",
      "temperature": 10 
     }
   ]
