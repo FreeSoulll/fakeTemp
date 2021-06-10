@@ -3,5 +3,11 @@
     { "localTime": "2021-12-15 16:33:49", "temperature": 20 },
     { "localTime": "2021-12-15 16:34:49", "temperature": 50 },
     { "localTime": "2021-12-15 16:35:49", "temperature": 10 }
-  ]
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
 }
